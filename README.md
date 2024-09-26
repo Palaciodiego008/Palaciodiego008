@@ -1,40 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Diego Palacio! 👋
 
-<h1 align="center">Hello, I'm Diego Palacio!</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+### Software Engineer | Problem Solver | Technology Enthusiast
 
-<p align="center">I love building solutions that solve real-world problems, with a focus on creating clean, maintainable code.</p>
+I'm a software engineer passionate about building scalable solutions and writing clean, maintainable code. My work spans across various technologies, including backend development with Golang, frontend frameworks like React and Next.js, and everything in between.
 
 ---
 
-### 🔧 Languages & Tools:
+### 🔧 Technologies & Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/golang-%2323f.svg?style=for-the-badge&logo=go&logoColor=blue" alt="Golang"/>
-  <img src="https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/ts-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palaciodiego008&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palaciodiego008&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Palaciodiego008&theme=github_dark" alt="Productive Time" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
+### 🌍 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-palacio-3687281b6/">
-    <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palaciodiego008&theme=github_dark" alt="GitHub Stats"/>
-</p>
-
----
-
-### ⚡ Fun Fact:
-- I love to explore new technologies and enjoy working on exciting projects!
