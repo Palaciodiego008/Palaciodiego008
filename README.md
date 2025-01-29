@@ -1,8 +1,8 @@
 # Hi there, I'm Diego Palacio! 👋
 
-### Software Engineer | Problem Solver | Technology Enthusiast
+### Software Developer | Problem Solver | Technology Enthusiast
 
-I'm a software engineer passionate about building scalable solutions and writing clean, maintainable code. My work spans across various technologies, including backend development with Golang, TS, Python, JS, Laravel/PHP, frontend frameworks/languages like JS, VueJS, StimulusJS, ReactJS and Next.js, and everything in between.
+I'm a software developer passionate about building scalable solutions and writing clean, maintainable code. My work spans across various technologies, including backend development with Golang, TS, Python, JS, Laravel/PHP, frontend frameworks/languages like JS, VueJS, StimulusJS, ReactJS and Next.js, and everything in between.
 
 ---
 
