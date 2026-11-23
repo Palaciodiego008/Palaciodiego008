@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="1200" height="6" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="20%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#bd00ff"/>
+      <stop offset="80%" stop-color="#00ff9f"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-400,0;400,0;-400,0" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="1.5" width="1200" height="3" rx="1.5" fill="url(#line)"/>
+</svg>

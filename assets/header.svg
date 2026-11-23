@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Diego Palacio — Software Engineer, Backend and Distributed Systems">
+  <defs>
+    <linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="230">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="32%" stop-color="#1a3a4a"/>
+      <stop offset="66%" stop-color="#0a7e8c"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+
+    <mask id="wave">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0,0;-1200,0" dur="18s" repeatCount="indefinite"/>
+        <path fill="#ffffff" d="M0,0 L0,168 q150,30 300,0 t300,0 t300,0 t300,0 t300,0 t300,0 t300,0 t300,0 L2400,0 Z"/>
+      </g>
+    </mask>
+  </defs>
+
+  <g mask="url(#wave)">
+    <rect width="1200" height="230" fill="url(#bg)"/>
+    <g opacity="0.22">
+      <animateTransform attributeName="transform" type="translate" values="-1200,0;0,0" dur="13s" repeatCount="indefinite"/>
+      <path fill="#00d4ff" d="M0,0 L0,150 q150,34 300,0 t300,0 t300,0 t300,0 t300,0 t300,0 t300,0 t300,0 L2400,0 Z"/>
+    </g>
+    <g opacity="0.14">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-1200,0" dur="9s" repeatCount="indefinite"/>
+      <path fill="#ffffff" d="M0,0 L0,132 q150,26 300,0 t300,0 t300,0 t300,0 t300,0 t300,0 t300,0 t300,0 L2400,0 Z"/>
+    </g>
+  </g>
+
+  <g text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.1s" fill="freeze"/>
+      <text x="600" y="100" font-size="60" font-weight="700" fill="#ffffff" letter-spacing="7">DIEGO PALACIO</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.7s" fill="freeze"/>
+      <text x="600" y="136" font-size="17" font-weight="500" fill="#e6f7ff" letter-spacing="2.5">Software Engineer ◆ Backend &amp; Distributed Systems</text>
+    </g>
+  </g>
+</svg>

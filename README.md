@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a3a4a,60:0a7e8c,100:00d4ff&height=230&section=header&text=DIEGO%20PALACIO&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%97%86%20Backend%20%26%20Distributed%20Systems&descAlignY=56&descSize=17" />
+<img width="100%" src="https://raw.githubusercontent.com/Palaciodiego008/Palaciodiego008/main/assets/header.svg" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+software+engineer;%24+stack+%E2%86%92+go+%C2%B7+typescript+%C2%B7+python;%24+focus+%E2%86%92+scalable+distributed+systems;%24+ai+%E2%86%92+claude+code+%C2%B7+codex+%C2%B7+mcp+%C2%B7+sdd;%24+status+%E2%86%92+online+%E2%97%8F+building" alt="typing" />
 
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-bd00ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://komarev.com/ghpvc/?username=Palaciodiego008&style=for-the-badge&color=00d4ff&label=VISITORS&labelColor=0d1117" />
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<img width="100%" src="https://raw.githubusercontent.com/Palaciodiego008/Palaciodiego008/main/assets/divider.svg" />
 
 </div>
 
@@ -48,7 +48,7 @@ What I enjoy most: designing robust architectures, squeezing performance, and so
 </table>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<img width="100%" src="https://raw.githubusercontent.com/Palaciodiego008/Palaciodiego008/main/assets/divider.svg" />
 </div>
 
 ## `02` — tech stack
@@ -77,7 +77,7 @@ What I enjoy most: designing robust architectures, squeezing performance, and so
 </table>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<img width="100%" src="https://raw.githubusercontent.com/Palaciodiego008/Palaciodiego008/main/assets/divider.svg" />
 </div>
 
 ## `03` — ai-augmented engineering
@@ -124,7 +124,7 @@ Spec first, code second. Executable specs and acceptance criteria drive both the
 **🧠 LLM integration** — building production features on top of LLM APIs: tool calling, structured outputs, RAG pipelines, prompt caching and cost/latency tuning.
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<img width="100%" src="https://raw.githubusercontent.com/Palaciodiego008/Palaciodiego008/main/assets/divider.svg" />
 </div>
 
 ## `04` — telemetry
@@ -148,7 +148,7 @@ Spec first, code second. Executable specs and acceptance criteria drive both the
 <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palaciodiego008&theme=github_dark" />
 <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palaciodiego008&theme=github_dark" />
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<img width="100%" src="https://raw.githubusercontent.com/Palaciodiego008/Palaciodiego008/main/assets/divider.svg" />
 
 </div>
 
@@ -167,6 +167,6 @@ Spec first, code second. Executable specs and acceptance criteria drive both the
 
 <samp><b>`// systems are temporary · good abstractions are forever`</b></samp>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0a7e8c,70:1a3a4a,100:0d1117&height=140&section=footer" />
+<img width="100%" src="https://raw.githubusercontent.com/Palaciodiego008/Palaciodiego008/main/assets/footer.svg" />
 
 </div>
