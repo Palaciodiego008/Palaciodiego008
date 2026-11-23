@@ -2,12 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a3a4a,60:0a7e8c,100:00d4ff&height=230&section=header&text=DIEGO%20PALACIO&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%97%86%20Backend%20%26%20Distributed%20Systems&descAlignY=56&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+software+engineer;%24+stack+%E2%86%92+go+%C2%B7+typescript+%C2%B7+python;%24+focus+%E2%86%92+scalable+distributed+systems;%24+status+%E2%86%92+online+%E2%97%8F+building" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+software+engineer;%24+stack+%E2%86%92+go+%C2%B7+typescript+%C2%B7+python;%24+focus+%E2%86%92+scalable+distributed+systems;%24+ai+%E2%86%92+claude+code+%C2%B7+codex+%C2%B7+mcp+%C2%B7+sdd;%24+status+%E2%86%92+online+%E2%97%8F+building" alt="typing" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9f?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/BASED_IN-REMOTE-00d4ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AI--AUGMENTED-WORKFLOW-00d4ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-bd00ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://komarev.com/ghpvc/?username=Palaciodiego008&style=for-the-badge&color=00d4ff&label=VISITORS&labelColor=0d1117" />
 
@@ -26,6 +26,7 @@ const diego = {
   role:      "Software Engineer",
   focus:     ["Distributed Systems", "APIs", "Clean Architecture"],
   languages: ["Go", "TypeScript", "Python", "PHP", "JavaScript"],
+  ai:        ["Claude Code", "Codex", "MCP", "Agents", "SDD"],
   mindset:   "readable > clever · shipped > perfect",
   currently: "making things that work, work faster",
 };
@@ -79,7 +80,54 @@ What I enjoy most: designing robust architectures, squeezing performance, and so
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </div>
 
-## `03` — telemetry
+## `03` — ai-augmented engineering
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MCP-00D4FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/LLM_APIs-BD00FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SDD-00FF9F?style=for-the-badge&logo=markdown&logoColor=white&labelColor=0d1117" />
+
+</div>
+
+> AI is part of my toolchain, not a shortcut around engineering. I treat agents like junior collaborators: tight specs in, reviewed diffs out.
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Agentic workflows**
+
+Daily work with **Claude Code** and **OpenAI Codex** — delegating refactors, test coverage and migrations to **subagents** running in parallel, then reviewing every diff before it lands.
+
+**🧩 Skills & custom agents**
+
+Reusable **Skills** and scoped agent definitions that encode project conventions, review checklists and deploy steps — so the assistant follows *our* standards, not generic defaults.
+
+</td>
+<td width="50%" valign="top">
+
+**🔌 MCP (Model Context Protocol)**
+
+Wiring **MCP servers** to connect models to real systems — databases, internal APIs, issue trackers and docs — so context comes from the source of truth instead of a copy-paste.
+
+**📐 SDD · Spec-Driven Development**
+
+Spec first, code second. Executable specs and acceptance criteria drive both the implementation and the agent's scope — ambiguity gets resolved on paper, not in the diff.
+
+</td>
+</tr>
+</table>
+
+**🧠 LLM integration** — building production features on top of LLM APIs: tool calling, structured outputs, RAG pipelines, prompt caching and cost/latency tuning.
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</div>
+
+## `04` — telemetry
 
 <div align="center">
 
@@ -103,7 +151,7 @@ What I enjoy most: designing robust architectures, squeezing performance, and so
 
 </div>
 
-## `04` — connect
+## `05` — connect
 
 <div align="center">
 
