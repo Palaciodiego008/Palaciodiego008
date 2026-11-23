@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 340" width="440" height="340" role="img" aria-label="Animated terminal running AI agents">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00d4ff">
+        <animate attributeName="stop-color" values="#00d4ff;#bd00ff;#00ff9f;#00d4ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#bd00ff">
+        <animate attributeName="stop-color" values="#bd00ff;#00ff9f;#00d4ff;#bd00ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="424" height="324" rx="14" fill="#0d1117" stroke="url(#border)" stroke-width="1.5"/>
+  <rect x="9" y="9" width="422" height="140" rx="13" fill="url(#glow)"/>
+
+  <!-- title bar -->
+  <circle cx="34" cy="32" r="5" fill="#ff5f57"/>
+  <circle cx="52" cy="32" r="5" fill="#febc2e"/>
+  <circle cx="70" cy="32" r="5" fill="#28c840"/>
+  <text x="220" y="36" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#8b949e">diego@dev — ~/systems</text>
+  <line x1="9" y1="50" x2="431" y2="50" stroke="#21262d" stroke-width="1"/>
+
+  <g font-family="ui-monospace,'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="13">
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.075;0.09;0.92;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="28" y="84"><tspan fill="#00d4ff">$</tspan> <tspan fill="#c9d1d9">claude --agents 4 --spec rfc.md</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.16;0.175;0.92;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="28" y="112"><tspan fill="#00ff9f">✓</tspan> <tspan fill="#8b949e">spec parsed · 12 acceptance criteria</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.265;0.92;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="28" y="140"><tspan fill="#bd00ff">◆</tspan> <tspan fill="#8b949e">mcp://postgres · mcp://linear connected</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.355;0.92;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="28" y="168"><tspan fill="#00d4ff">⟳</tspan> <tspan fill="#8b949e">subagents running in parallel…</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.52;0.535;0.92;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="28" y="196"><tspan fill="#00ff9f">✓</tspan> <tspan fill="#8b949e">48 tests passed · 0 regressions</tspan></text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.61;0.625;0.92;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="28" y="224"><tspan fill="#00d4ff">$</tspan> <tspan fill="#c9d1d9">git push origin main</tspan></text>
+      <rect x="236" y="212" width="8" height="15" fill="#00d4ff">
+        <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- agent swarm -->
+  <line x1="9" y1="252" x2="431" y2="252" stroke="#21262d" stroke-width="1"/>
+  <text x="28" y="274" font-family="ui-monospace,'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#8b949e" letter-spacing="1.5">AGENT SWARM</text>
+
+  <g filter="url(#soft)">
+    <circle cx="220" cy="306" r="11" fill="none" stroke="#00d4ff" stroke-width="1.5"/>
+    <circle cx="220" cy="306" r="4" fill="#00d4ff">
+      <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="220" cy="306" r="11" fill="none" stroke="#00d4ff" stroke-width="1">
+      <animate attributeName="r" values="11;30;11" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0;0.7" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g stroke="#21262d" stroke-width="1">
+    <line x1="220" y1="306" x2="120" y2="306"/>
+    <line x1="220" y1="306" x2="170" y2="306"/>
+    <line x1="220" y1="306" x2="270" y2="306"/>
+    <line x1="220" y1="306" x2="320" y2="306"/>
+  </g>
+
+  <g>
+    <circle cx="120" cy="306" r="6" fill="#bd00ff">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="170" cy="306" r="6" fill="#00ff9f">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="270" cy="306" r="6" fill="#00ff9f">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="320" cy="306" r="6" fill="#bd00ff">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

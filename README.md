@@ -41,7 +41,7 @@ What I enjoy most: designing robust architectures, squeezing performance, and so
 </td>
 <td width="42%" valign="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b1cd-4b3f-9b6a-69ba8f1fe4e9.gif" />
+<img width="100%" src="https://raw.githubusercontent.com/Palaciodiego008/Palaciodiego008/main/assets/terminal.svg" alt="terminal" />
 
 </td>
 </tr>
@@ -143,9 +143,10 @@ Spec first, code second. Executable specs and acceptance criteria drive both the
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Palaciodiego008&bg_color=0D1117&color=00D4FF&line=BD00FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&custom_title=Contribution%20Activity" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Palaciodiego008&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palaciodiego008&theme=github_dark" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palaciodiego008&theme=github_dark" />
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
